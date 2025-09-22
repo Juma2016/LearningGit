@@ -35,7 +35,7 @@ mvn archetype:generate "-DgroupId=at.fhj.msd" "-DartifactId=LearningGit" "-Darch
 6) add this orders in folge
 
 ```
-# git remote add clone https://github.com/       username/RepoNAme.git
+# git remote add clone https://github.com/username/RepoNAme.git
 # git add README.md
 # git commit -m "add readme.md"
 # git add .gitignore
